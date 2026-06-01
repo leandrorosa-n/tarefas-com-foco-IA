@@ -1,4 +1,4 @@
-# tarefas-com-foco-IA
+# Simplificando Tarefas e Ganhando Foco com IA no Dia a Dia
 
 # PROMPT
 Quero que a IA gere uma lista de tarefas para os empreendedores, com o objetivo de melhorar a organização de vendas. Considere o seguinte contexto: rotina de vendas diárias. O conteúdo deve ter formato de lista robusta (completa). Evite linguagem técnica.
